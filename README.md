@@ -1,9 +1,9 @@
 # Minha jornada na ciência de dados [pt-br]
 ---
 
-Olá! Meu nome é Kailane e atualmente curso Engenharia da Computação no CIn UFPE. É um prazer ter você por aqui :)
+Olá! É um prazer ter você por aqui :)
 
-Criei esse repositório pra compartilhar os materiais que estou usando para estudar tópicos relacionados a ciência de dados. Separei livros, links de aulas, tutoriais, workshops, exercícios e tudo que vou encontrando de interessante por aí.
+Meu nome é Kailane, atualmente estou cursando Engenharia da Computação no CIn UFPE. Criei esse repositório pra compartilhar os materiais que estou usando para estudar tópicos relacionados a ciência de dados. Separei livros, links de aulas, tutoriais, workshops, exercícios e tudo que vou encontrando de interessante por aí.
 
 
 ## Sugestões de trilhas
