@@ -12,7 +12,7 @@ Meu nome é Kailane, atualmente estou cursando Engenharia da Computação no CIn
 2. [Pizza de Dados](https://github.com/PizzaDeDados/datascience-pizza)
 
 
-## Principais frameworks para análise e processamento de dados
+## Principais bibliotecas para análise e processamento de dados
 
 ### 1. Numpy
 
