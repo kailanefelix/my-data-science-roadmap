@@ -9,7 +9,7 @@ Criei esse repositório pra compartilhar os materiais que estou usando para estu
 ## Sugestões de trilhas
 
 1. [Data Science Learning Roadmap for 2021](https://towardsdatascience.com/data-science-learning-roadmap-for-2021-84f2ba09a44f)
-2.
+2. [Pizza de Dados](https://github.com/PizzaDeDados/datascience-pizza)
 
 
 ## Principais frameworks para análise e processamento de dados
@@ -18,7 +18,7 @@ Criei esse repositório pra compartilhar os materiais que estou usando para estu
 
 #### Livros:
 
-* Segundo capítulo do (Python Data Science Handbook)[https://jakevdp.github.io/PythonDataScienceHandbook/]
+* Segundo capítulo do [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 #### Palestras, Workshops, tutoriais etc
 
@@ -33,17 +33,17 @@ Criei esse repositório pra compartilhar os materiais que estou usando para estu
 
 #### Livros:
 
-* Terceiro capítulo do (Python Data Science Handbook)[https://jakevdp.github.io/PythonDataScienceHandbook/]
+* Terceiro capítulo do [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ### 3. Matplotlib
 
 #### Livros:
 
-* Quarto capítulo do (Python Data Science Handbook)[https://jakevdp.github.io/PythonDataScienceHandbook/]
+* Quarto capítulo do [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 #### Palestras, Workshops, tutoriais etc
 
-* (Matplotlib Tutorials - Corey Schafer)[https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_]
+* [Matplotlib Tutorials - Corey Schafer](https://www.youtube.com/watch?v=UO98lJQ3QGI&list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_)
 
 
 ### Estatística
